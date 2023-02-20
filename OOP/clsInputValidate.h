@@ -1,6 +1,3 @@
-//ProgrammingAdivces.com
-//Mohammed Abu-Hadhoud
-
 #pragma once
 #include <iostream>
 #include <string>
@@ -137,7 +134,7 @@ public:
 	static string ReadString()
 	{
 		string  S1 = "";
-		// Usage of std::ws will extract allthe whitespace character
+		// Usage of ws will extract allthe whitespace character
 		getline(cin >> ws, S1);
 		return S1;
 	}
