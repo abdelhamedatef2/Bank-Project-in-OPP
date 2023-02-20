@@ -9,5 +9,6 @@ C:\Users\abdel\source\repos\OOP\OOP\clsInputValidate.h(112,16): warning C4244: '
 C:\Users\abdel\source\repos\OOP\OOP\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(332): warning C4715: 'clsBankClient::Save': not all control paths return a value
   OOP.vcxproj -> C:\Users\abdel\source\repos\OOP\x64\Debug\OOP.exe
