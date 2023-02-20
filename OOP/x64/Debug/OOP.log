@@ -6,6 +6,9 @@ C:\Users\abdel\source\repos\OOP\OOP\clsString.h(193,1): warning C4267: 'return':
 C:\Users\abdel\source\repos\OOP\OOP\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(384,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsInputValidate.h(98,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsInputValidate.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\abdel\source\repos\OOP\OOP\OOP.cpp(50,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   OOP.vcxproj -> C:\Users\abdel\source\repos\OOP\x64\Debug\OOP.exe
