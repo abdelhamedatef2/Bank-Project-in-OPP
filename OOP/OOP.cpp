@@ -1,10 +1,12 @@
-#include<stdio.h>
-#include "clsMainScreen.h"""
-using namespace std;
-int main(void)
-{
-	clsMainScreen::ShowMainMenue();
+#include <iostream>
+#include "clsLoginScreen.h"
 
-	system("pause>0");
-	return (0);
+int main()
+
+{
+
+    clsLoginScreen::ShowLoginScreen();
+
+    system("pause>0");
+    return 0;
 }

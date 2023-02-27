@@ -1,5 +1,4 @@
 ﻿  OOP.cpp
-C:\Users\abdel\source\repos\OOP\OOP\OOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\abdel\source\repos\OOP\OOP\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
