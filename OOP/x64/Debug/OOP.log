@@ -23,8 +23,10 @@ C:\Users\abdel\source\repos\OOP\OOP\clsUpdateClientScreen.h(47,66): warning C424
 C:\Users\abdel\source\repos\OOP\OOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\abdel\source\repos\OOP\OOP\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\OOP\OOP\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
-C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
 C:\Users\abdel\source\repos\OOP\OOP\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\abdel\source\repos\OOP\OOP\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
   OOP.vcxproj -> C:\Users\abdel\source\repos\OOP\x64\Debug\OOP.exe
